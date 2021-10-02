@@ -1,0 +1,104 @@
+﻿<Window x:Class="Cliente_ServicioCliente.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cliente_ServicioCliente"
+        mc:Ignorable="d" Background="#E9967A"
+        Title="Encuesta de satisfacción" Height="400" Width="650">
+    <Window.DataContext>
+        <local:Cliente></local:Cliente>
+        </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="Image">
+            <Setter Property="Height" Value="90"/>
+            <Setter Property="Margin" Value="0,15,0,10"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontWeight" Value="DemiBold"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FFE4E1"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <DockPanel>
+            <TextBlock Background="#A52A2A" DockPanel.Dock="Top" Padding="10"
+                   TextAlignment="Center" FontWeight="Bold"
+                   Foreground="White" FontSize="30">
+            Libreria "El sótano"
+            </TextBlock>
+            <TextBlock DockPanel.Dock="Top" TextAlignment="Center" Padding="10" FontWeight="DemiBold"
+                   Foreground="#A52A2A" FontSize="25">
+            ¿Qué te ha parecido nuestro servicio?
+            </TextBlock>
+            <Separator DockPanel.Dock="Top" Margin="50,5" BorderBrush="White" BorderThickness="5"></Separator>
+            <WrapPanel DockPanel.Dock="Top" Margin="50,10" >
+                <StackPanel>
+                    <Button Click="Button_Click" Command="{Binding EnviarCommand}" 
+                        CommandParameter="Excelente">
+                     <Image Source="/Assets/excelente.png" />
+
+                    </Button>
+                    <TextBlock Foreground="Green">Excelente</TextBlock>
+                </StackPanel>
+                <StackPanel>
+                    <Button Click="Button_Click" Command="{Binding EnviarCommand}" 
+                        CommandParameter="Bueno">
+                       <Image Source="/Assets/bueno.png" />
+
+                    </Button>
+                    <TextBlock Foreground="Yellow">Bueno</TextBlock>
+                </StackPanel>
+                <StackPanel>
+                    <Button Click="Button_Click" Command="{Binding EnviarCommand}" 
+                        CommandParameter="Regular">
+                        <Image Source="/Assets/neutral.png" />
+
+                    </Button>
+                    <TextBlock Foreground="DimGray">Regular</TextBlock>
+                </StackPanel>
+                <StackPanel>
+                    <Button Click="Button_Click" Command="{Binding EnviarCommand}" 
+                        CommandParameter="Malo">
+                      <Image Source="/Assets/malo.png" />
+
+                    </Button>
+                    <TextBlock Foreground="Blue">Malo</TextBlock>
+                </StackPanel>
+                <StackPanel>
+                    <Button Click="Button_Click" Command="{Binding EnviarCommand}" 
+                        CommandParameter="Pésimo">
+                   <Image Source="/Assets/pesimo.png" />
+
+                    </Button>
+                    <TextBlock Foreground="Red">Pésimo</TextBlock>
+                </StackPanel>
+            </WrapPanel>
+
+
+            <TextBlock DockPanel.Dock="Top" TextAlignment="Center" Foreground="#800000"
+                   FontSize="20" FontWeight="DemiBold" Padding="10">
+            ¡Gracias por tu visita, vuelve pronto!
+            </TextBlock>
+            <Button Height="35" Background="#4000" DockPanel.Dock="Top" Margin="0" 
+                    Padding="0" Command="{Binding ConectarCommand}">
+                <Image Margin="540,0,0,0" Height="30" Source="/Assets/encender.png" />
+            </Button>
+        </DockPanel>
+        <Grid x:Name="enviandoRes" Background="#9100" Visibility="Hidden">
+           <Image Source="/Assets/cargando.png" />
+
+        </Grid>
+    </Grid>
+</Window>

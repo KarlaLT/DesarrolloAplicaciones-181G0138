@@ -24,5 +24,17 @@ namespace Servidor_ServicioCliente
         {
             InitializeComponent();
         }
+
+        private void iniciar_Click(object sender, RoutedEventArgs e)
+        {
+            iniciar.IsEnabled = false;
+            detener.IsEnabled = true;
+        }
+
+        private void detener_Click(object sender, RoutedEventArgs e)
+        {
+            iniciar.IsEnabled = true;
+            detener.IsEnabled = false;
+        }
     }
 }

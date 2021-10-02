@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "VKsWU8LUNWMeJFIIa9HguBT5cNi9Ktmu1ITrRfQhO/ETspixLABX33xm3zPEIaB3vNH91/tOVPYpMKg2JNhQzg==",
+  "dgSpecHash": "1SZ8v0mE43hP3R2HgRSlKCxkOxblQNcVZ5HXo2CvncheVTpEi60ySiZXvQjiJa7u1AydoU9ZzgwWxTBDFz3twA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karla\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"MvvmLightLibs 5.4.1.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "MvvmLightLibs",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }

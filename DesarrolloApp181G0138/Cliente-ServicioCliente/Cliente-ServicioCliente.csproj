@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Cliente_ServicioCliente</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\bueno.png" />
+    <None Remove="Assets\cargando.png" />
+    <None Remove="Assets\encender.png" />
+    <None Remove="Assets\excelente.png" />
+    <None Remove="Assets\malo.png" />
+    <None Remove="Assets\neutral.png" />
+    <None Remove="Assets\pesimo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\bueno.png" />
+    <Resource Include="Assets\cargando.png" />
+    <Resource Include="Assets\encender.png" />
+    <Resource Include="Assets\excelente.png" />
+    <Resource Include="Assets\malo.png" />
+    <Resource Include="Assets\neutral.png" />
+    <Resource Include="Assets\pesimo.png" />
+  </ItemGroup>
+
+</Project>

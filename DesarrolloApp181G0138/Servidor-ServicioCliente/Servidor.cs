@@ -8,9 +8,9 @@ using System.Windows.Threading;
 using System.Net;
 using System.ComponentModel;
 using System.Windows.Input;
-using GalaSoft.MvvmLight.Command;
 using System.Xml;
 using System.Xml.Serialization;
+using GalaSoft.MvvmLight.Command;
 
 namespace Servidor_ServicioCliente
 {

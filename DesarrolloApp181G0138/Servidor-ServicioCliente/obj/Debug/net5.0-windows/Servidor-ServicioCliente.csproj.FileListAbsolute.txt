@@ -1,0 +1,34 @@
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.csproj.AssemblyReference.cache
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente_MarkupCompile.cache
+C:\Users\Karla\Desktop\Materias carrera 181G0138\Clases en línea 7.2G\App cliente-servidor\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente_MarkupCompile.lref
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.csproj.AssemblyReference.cache
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente_MarkupCompile.cache
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente_MarkupCompile.lref
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.exe
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.deps.json
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.runtimeconfig.json
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.runtimeconfig.dev.json
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\ref\Servidor-ServicioCliente.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\Servidor-ServicioCliente.pdb
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.g.resources
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.AssemblyInfoInputs.cache
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.AssemblyInfo.cs
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.csproj.CoreCompileInputs.cache
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.csproj.CopyComplete
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\ref\Servidor-ServicioCliente.dll
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.pdb
+C:\Users\Karla\Desktop\DesarrolloAplicaciones-181G0138\DesarrolloApp181G0138\Servidor-ServicioCliente\obj\Debug\net5.0-windows\Servidor-ServicioCliente.genruntimeconfig.cache

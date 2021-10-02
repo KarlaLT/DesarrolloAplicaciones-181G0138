@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj": {}
+    "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj": {
+    "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
+        "projectUniqueName": "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
         "projectName": "Servidor-ServicioCliente",
-        "projectPath": "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
+        "projectPath": "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\Servidor-ServicioCliente.csproj",
         "packagesPath": "C:\\Users\\Karla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karla\\Desktop\\Materias carrera 181G0138\\Clases en línea 7.2G\\App cliente-servidor\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\obj\\",
+        "outputPath": "C:\\Users\\Karla\\Desktop\\DesarrolloAplicaciones-181G0138\\DesarrolloApp181G0138\\Servidor-ServicioCliente\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
