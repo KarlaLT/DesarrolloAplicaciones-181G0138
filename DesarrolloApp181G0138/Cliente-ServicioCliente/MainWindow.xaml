@@ -36,7 +36,7 @@
             <TextBlock Background="#A52A2A" DockPanel.Dock="Top" Padding="10"
                    TextAlignment="Center" FontWeight="Bold"
                    Foreground="White" FontSize="30">
-            Libreria "El sótano"
+            Supermercado "Estrella"
             </TextBlock>
             <TextBlock DockPanel.Dock="Top" TextAlignment="Center" Padding="10" FontWeight="DemiBold"
                    Foreground="#A52A2A" FontSize="25">
